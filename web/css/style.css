@@ -1,0 +1,14 @@
+body{
+	background-color:#ffffff;
+}
+.caller{
+    background-color:green;
+}
+
+.called{
+    background-color:yellow;
+}
+
+.out{
+    background-color:red;
+}
